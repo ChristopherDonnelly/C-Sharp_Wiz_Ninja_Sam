@@ -1,0 +1,11 @@
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Wiz_Ninja_Sam\obj\Debug\netcoreapp2.0\Wiz_Ninja_Sam.csprojResolveAssemblyReference.cache
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Wiz_Ninja_Sam\obj\Debug\netcoreapp2.0\Wiz_Ninja_Sam.csproj.CoreCompileInputs.cache
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Wiz_Ninja_Sam\obj\Debug\netcoreapp2.0\Wiz_Ninja_Sam.AssemblyInfoInputs.cache
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Wiz_Ninja_Sam\obj\Debug\netcoreapp2.0\Wiz_Ninja_Sam.AssemblyInfo.cs
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Wiz_Ninja_Sam\bin\Debug\netcoreapp2.0\Wiz_Ninja_Sam.deps.json
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Wiz_Ninja_Sam\bin\Debug\netcoreapp2.0\Wiz_Ninja_Sam.runtimeconfig.json
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Wiz_Ninja_Sam\bin\Debug\netcoreapp2.0\Wiz_Ninja_Sam.runtimeconfig.dev.json
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Wiz_Ninja_Sam\bin\Debug\netcoreapp2.0\Wiz_Ninja_Sam.dll
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Wiz_Ninja_Sam\bin\Debug\netcoreapp2.0\Wiz_Ninja_Sam.pdb
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Wiz_Ninja_Sam\obj\Debug\netcoreapp2.0\Wiz_Ninja_Sam.dll
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Wiz_Ninja_Sam\obj\Debug\netcoreapp2.0\Wiz_Ninja_Sam.pdb
